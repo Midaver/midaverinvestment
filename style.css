@@ -108,7 +108,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background: url('images/profit.jpg') center/cover no-repeat;
+ /* background: url('images/profit.jpg') center/cover no-repeat;*/
   z-index: 1;
 }
 
@@ -281,3 +281,4 @@ footer a:hover {
   color: #004080;
   margin-bottom: 15px;
 }
+
