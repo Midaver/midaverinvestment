@@ -22,7 +22,7 @@ body {
 
 .navbar .logo {
   font-size: clamp(1.25rem, 2vw, 1.5rem); 
-  font-weight: bold;
+  width:100px;
 }
 
 .navbar .logo span {
@@ -281,4 +281,5 @@ footer a:hover {
   color: #004080;
   margin-bottom: 15px;
 }
+
 
