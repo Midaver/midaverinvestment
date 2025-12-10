@@ -10,7 +10,7 @@ body {
 /* Navbar */
 .navbar {
   background-color: #003366;
-  padding: 1rem;
+  padding: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -280,6 +280,7 @@ footer a:hover {
   color: #004080;
   margin-bottom: 15px;
 }
+
 
 
 
